@@ -1,2 +1,2 @@
 # TinDog
-A  product landing page using Bootstrap
+A Bootstrap Product Landing Page
